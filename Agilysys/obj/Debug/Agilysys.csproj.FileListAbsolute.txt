@@ -1,0 +1,6 @@
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\bin\Debug\Agilysys.exe.config
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\bin\Debug\Agilysys.exe
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\bin\Debug\Agilysys.pdb
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\obj\Debug\Agilysys.csprojResolveAssemblyReference.cache
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\obj\Debug\Agilysys.exe
+c:\users\eduartem\documents\visual studio 2015\Projects\Agilysys\Agilysys\obj\Debug\Agilysys.pdb

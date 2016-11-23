@@ -1,0 +1,9 @@
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\obj\Debug\TestingRemovingDuplicates.csprojResolveAssemblyReference.cache
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\TestingRemovingDuplicates.dll
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\TestingRemovingDuplicates.pdb
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\Agilysys.exe
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\Agilysys.pdb
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\obj\Debug\TestingRemovingDuplicates.dll
+c:\Users\eduartem\documents\visual studio 2015\Projects\Agilysys\TestingRemovingDuplicates\obj\Debug\TestingRemovingDuplicates.pdb
